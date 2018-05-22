@@ -1,0 +1,61 @@
+---
+layout:     post
+title:      "正在使用的Chrome扩展程序"
+date:       2016-03-18 00:11:00
+author:     "AskViky"
+header-img: "img/default-bg.png"
+---
+
+#记录一下自己正在使用的Chrome扩展程序：
+
+1、Vimium Techzero，参考链接：http://sspai.com/27723；
+
+2、Momentum；
+
+3、Alexa Traffic Rank；
+
+4、Isometric Contributions；
+
+5、Octotree；
+
+6、ChromeADB；
+
+7、LastPass；
+
+8、Adblock Plus；
+
+9、Axure RP Extension for Chrome；
+
+10、Google Mail Checker；
+
+11、Isometric Contributions；
+
+12、LastPass: Free Password Manager；
+
+13、OneTab；
+
+14、Vysor；
+
+15、关灯看视频；
+
+16、印象笔记·剪藏；
+
+17、微信；
+
+18、红杏；
+
+19、网页截图++；
+
+20、超级VPN；
+
+21、Dribbble；
+
+22、Picasa；
+
+23、Color Tab；
+
+---
+
+#解决Chrome官方程序无法下载的问题：
+
+1、参考链接：http://www.appinn.com/chrome-extensions-down-fix-hosts/；
