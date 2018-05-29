@@ -12,6 +12,9 @@ Debug版和Release版区别
 3、Debug和Release的真正秘密，在于一组编译选项     
 4、只有Debug版的程序才能设置断点、单步执行、使用TRACE/ASSERT等调试输出语句     
 
+## 重要资料
+1、[搭建本地Maven私服，并使用Android Studio统一管理](https://www.jianshu.com/p/5e88b3e16192)     
+
 ## 参考资料   
 1、[Debug和Release有什么区别](https://blog.csdn.net/chenhu_doc/article/details/932305)   
 2、
