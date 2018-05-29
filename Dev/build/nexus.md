@@ -8,7 +8,9 @@ nexus start
 打开网页，访问 http://localhost:8081/nexus/   
 默认用户名admin，密码admin123    
 
-3、更多请看参考文献 ...
+3、更多请看参考文献1 ...
 
-## 参考文献
-1、[搭建本地Maven私服，并使用Android Studio统一管理](https://www.jianshu.com/p/5e88b3e16192)   
+## 参考文献    
+1、[搭建本地Maven私服，并使用Android Studio统一管理](https://www.jianshu.com/p/5e88b3e16192)      
+2、[Maven学习五之Nexus中各repository介绍](https://blog.csdn.net/woshixuye/article/details/8132780)      
+
