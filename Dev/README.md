@@ -1,7 +1,8 @@
 
 # AppDevMemo
 
-##### [在线MarkDown编辑器MaHua](http://mahua.jser.me/)  
+#### [在线MarkDown编辑器MaHua](http://mahua.jser.me/)    
+#### [不错的在线富文本编辑器Slate](http://slatejs.org/#/rich-text), [项目地址](https://github.com/ianstormtaylor/slate)       
 
 ### Logger
 Simple, pretty and powerful logger for android
