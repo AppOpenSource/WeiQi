@@ -2,7 +2,7 @@
 ### Nexus使用
 1、启动nexus   
 命令行cd到/Documents/Work/nexus-2.14.8-01-bundle/nexus-2.14.8-01/bin目录下，  
-nexus start   
+./nexus start   
 
 2、访问nexus的Web端    
 打开网页，访问 http://localhost:8081/nexus/   
