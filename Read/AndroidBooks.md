@@ -7,7 +7,6 @@
 《实战Gradle》   
 《深入理解Java虚拟机》     
 《HR不会告诉你的那些面试技巧》    
-《剑指Offer：名企面试官精讲典型编程题(第2版)》    
 
 2、Android入门：          
 Android API Guides         
