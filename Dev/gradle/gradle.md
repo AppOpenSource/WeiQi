@@ -2,11 +2,10 @@
 # Gradle
 
 ## api和implementation区别      
-1、完全等同于compile指令，没区别，你将所有的compile改成api，完全没有错       
-2、这个指令的特点就是，对于使用了该命令编译的依赖，    
+1、api完全等同于compile指令，没区别，你将所有的compile改成api，完全没有错       
+2、就是使用implementation指令的依赖不会传递，这个指令的特点就是，对于使用了该命令编译的依赖，    
 对该项目有依赖的项目将无法访问到使用该命令编译的依赖中的任何程序，       
 也就是将该依赖隐藏在内部，而不对外部公开。      
-简单的说，就是使用implementation指令的依赖不会传递。     
 
 ### 建议
 在GoogleIO相关话题的中提到了一个建议，就是依赖首先应该设置为implementation的，     
@@ -23,4 +22,5 @@ implementation就比较高级了，其作用就是，
 
 ## 参考文献
 1、[Android彻底组件化—代码和资源隔离](https://www.jianshu.com/p/c7459b59dcd5)   
+2、[Android gradle3.x中 implementation 、compile、api区别](https://blog.csdn.net/u010296640/article/details/79114028)              
 
