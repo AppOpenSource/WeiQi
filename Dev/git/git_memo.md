@@ -5,3 +5,8 @@
 find . -name ".git" | xargs rm -Rf     
 这样本地仓库就清除了，在GitBash中master就不见了   
 
+## git查看远程仓库地址
+git查看远程仓库地址命令：       
+$git remote -v        
+
+
